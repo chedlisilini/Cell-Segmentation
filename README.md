@@ -1,3 +1,12 @@
+# Cell Segmentation using deep learning algorithms
+
+example of label and test output:
+
+![Label](https://github.com/user-attachments/assets/8de59dee-7bf1-4d25-b886-2f01a6190f37)
+![Segmented Cells](https://github.com/user-attachments/assets/f534a8e0-f0bc-4df2-86b8-82c823a8f43b)
+
+# Overview to the origing of the challenge and the data
+
 Nuclei of U2OS cells in a chemical screen
 Accession number BBBC039 · Version 1
 
